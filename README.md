@@ -24,3 +24,4 @@ The project helped me improve my understanding of layout structure, CSS transiti
 This project was developed as a learning and portfolio project.
 
 ## Preview
+![Download it and prompt on my Freepik profile (2k…](https://github.com/user-attachments/assets/bba0e7fe-740d-46fe-82b4-f1eb0066bd1e)
